@@ -11,3 +11,8 @@
 
 ## Idégenerering til projekt dronecontroller
 ### Vi har brugt idégenerering til at komme på forskellige idéer til hvordan vi skal styre en tello drone såsom at lave et CO2-opfanger system, der tjekker CO2 niveauet for at se om man indånder eller udånder og så ville dronen rykke frem og tilbage baseret på den data.
+
+
+# Logbog 1/10/25
+## Kryptografi
+### Vi er begyndt på et nyt emne kryptografiog lært om de forskellige metoder der bruges til enkryptering og dekryptering, bl.a. Caesar Cipher og hashing. Vi gik ud fra et eksempel med "Alice og Bob" (A og B), der kommunikerer med kryptografi, for at få en bedre forståelse for det der sker gennem krypteringen.
