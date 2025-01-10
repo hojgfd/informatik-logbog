@@ -16,3 +16,5 @@
 # Logbog 1/10/25
 ## Kryptografi
 ### Vi er begyndt på et nyt emne kryptografiog lært om de forskellige metoder der bruges til enkryptering og dekryptering, bl.a. Caesar Cipher og hashing. Vi gik ud fra et eksempel med "Alice og Bob" (A og B), der kommunikerer med kryptografi, for at få en bedre forståelse for det der sker gennem krypteringen.
+
+### Vi har begyndt på et nyt projekt med kryptografi, hvor vi tager udgangspunkt i Alice og Bob scenariet og demonstrerer udvekslingen af beskeder fra A til B.
