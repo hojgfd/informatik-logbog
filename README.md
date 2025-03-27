@@ -31,4 +31,4 @@
 ### The seven layers of the OSI model (from the bottom): Physical - Data link - Network - Transport - Session - Presentation - Application
 ###
 ### Vi lærte om curl, nmap og ncat og afprøvede dem. For eksempel var vi to og to hvor den ene satte en listener op med ncat og den anden connectede til den første persons ip med ncat, så man kunne skrive sammen i terminalen. 
-### Vi lærte også lidt om SQL Injection. Woow
+### Vi lærte også lidt om SQL Injection, med simple cases såsom at input noget sql kode der altid er sandt som ' or '1' = '1, som får en dårligt implementeret sql database til at leak alt dataen 
