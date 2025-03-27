@@ -22,3 +22,11 @@
 # Logbog 13/03/2025
 ## Cybermesterskaberne
 ### Lavede opgaverne AES Decryption, The professors last note og Find frontdoor, for at kvalificere mig til DDC Junior. Modtog en email og meldte mig til det.
+
+# Logbog 3/27/2025
+## Cybersecurity webstuff
+### Sårbarhed i flask + sqlite (exploits er muligt især hvis sat op forkert)
+### Bug bounty
+### Responsible disclosure
+### The seven layers of the OSI model (from the bottom): Physical - Data link - Network - Transport - Session - Presentation - Application
+### Wow
