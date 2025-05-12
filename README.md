@@ -1,4 +1,4 @@
-# Logbog 8/28/24
+# Logbog 28/8/2024
 ## Tello dronerne
 ### Vi er blevet introduceret til et projekt, hvor vi skal arbejde med Tello droner og styre dronernes bevægelse gennem programmering i Python.
 
@@ -13,7 +13,7 @@
 ### Vi har brugt idégenerering til at komme på forskellige idéer til hvordan vi skal styre en tello drone såsom at lave et CO2-opfanger system, der tjekker CO2 niveauet for at se om man indånder eller udånder og så ville dronen rykke frem og tilbage baseret på den data.
 
 
-# Logbog 1/10/25
+# Logbog 10/1/2025
 ## Kryptografi
 ### Vi er begyndt på et nyt emne kryptografiog lært om de forskellige metoder der bruges til enkryptering og dekryptering, bl.a. Caesar Cipher og hashing. Vi gik ud fra et eksempel med "Alice og Bob" (A og B), der kommunikerer med kryptografi, for at få en bedre forståelse for det der sker gennem krypteringen.
 
@@ -23,7 +23,7 @@
 ## Cybermesterskaberne
 ### Lavede opgaverne AES Decryption, The professors last note og Find frontdoor, for at kvalificere mig til DDC Junior. Modtog en email og meldte mig til det.
 
-# Logbog 3/27/2025
+# Logbog 27/3/2025
 ## Cybersecurity webstuff
 ### Sårbarhed i flask + sqlite (exploits er muligt især hvis sat op forkert)
 ### Bug bounty
@@ -38,3 +38,10 @@
 ### eksempel: curl orion.moore.dk
 ### nc til rå forbindelser mellem maskiner (TCP/UDP) – kan både lytte og ringe
 ### Vi lærte også lidt om SQL Injection 💉, som ligesom steroider er at inject ulovligheder ind i noget, i dette tilfælde en sql database, med simple cases såsom at input noget sql kode der altid er sandt som ' or '1' = '1, som får en dårligt implementeret sql database til at leak alt dataen 
+
+# Logbog 05/05/2025
+## Vi lærte om teachable machine, hvor vi trænede en AI model med billeder og lydklip, som vi derefter importerede ind i p5.js, så vi kunne skrive noget kode med brug af AI.
+
+# Logbog 12/5/2025
+## Vi startede timen ud med et recap om informatik, hvor vi repeterede 3-lags-modellen og de tidligere projekter vi har lavet i 2.g.
+## Vi arbejdede videre med teachable machine, med fokus på kode-delen.
