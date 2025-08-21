@@ -7,6 +7,8 @@
 
 
 ## Innovation (4p)
+<img width="675" height="584" alt="image" src="https://github.com/user-attachments/assets/67932db1-8ee6-499d-8239-7780e7d225e8" />
+
 ### Vi skal bruge 4P-modellen for innovation som består af denne proces: Produkt-innovation, Proces-innovation, Positions-innovation og Paradigme-innovation
 
 ## Idégenerering til projekt dronecontroller
@@ -45,3 +47,26 @@
 # Logbog 12/5/2025
 ## Vi startede timen ud med et recap om informatik, hvor vi repeterede 3-lags-modellen og de tidligere projekter vi har lavet i 2.g.
 ## Vi arbejdede videre med teachable machine, med fokus på kode-delen.
+
+# Logbog 21/8/2025
+## Det var den første informatik lektion i 3.g, så vi opsummerede det vi havde lavet i 2.g
+## Emner vi opsummerede:
+### 3-lags modellen
+<img width="650" height="652" alt="image" src="https://github.com/user-attachments/assets/2d0b5444-deab-4ecc-b847-16d9d673ec9b" />
+
+
+## IT System
+### Server client
+#### Server
+#### Udstiller endpoints der giver clients(s) mulighed for at lagre og læse data
+
+### API
+### -Get
+### -Put
+### -Post
+### -Store
+
+### Client -> JSON -> Server (JSON virker som et API, der sender data frem og tilbage mellem server og client)
+
+### Data sink: enhed der får data fra serveren
+### 
