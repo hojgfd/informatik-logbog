@@ -69,4 +69,10 @@
 ### Client -> JSON -> Server (JSON virker som et API, der sender data frem og tilbage mellem server og client)
 
 ### Data sink: enhed der får data fra serveren
-### 
+### Vi lavede en gruppe til vores første projekt i 3.g
+
+# Logbog 27/08/2025
+## Projektopstart DATA-API-projekt
+### Vi klargjorte Miro, trello og github for versionsstyring og projektstyring
+### Vi beskrev vores koncept og overvejede forskellige data der skulle gemmes og sendes mellem klient og server
+### Vi lavede skitser over de vigtige ting vores program skulle kunne og testede nogle flask sqlite eksempler ud for at få noget til at køre
