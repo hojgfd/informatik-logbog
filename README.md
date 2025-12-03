@@ -76,3 +76,19 @@
 ### Vi klargjorte Miro, trello og github for versionsstyring og projektstyring
 ### Vi beskrev vores koncept og overvejede forskellige data der skulle gemmes og sendes mellem klient og server
 ### Vi lavede skitser over de vigtige ting vores program skulle kunne og testede nogle flask sqlite eksempler ud for at få noget til at køre
+
+
+# Logbog 03/12/2025
+## Digital logic sim
+### Lavede forskellige gates på digital logic sim som er et simpelt, interaktivt program, der fungerer som en digital logiksimulator til at lære om, hvordan logiske porte og computerprocessorer fungerer.
+### AND: <img width="1257" height="402" alt="image" src="https://github.com/user-attachments/assets/46d2ad6a-98ea-406d-b4e8-c1dc92a65e4c" />
+### NOT: <img width="1084" height="191" alt="image" src="https://github.com/user-attachments/assets/03ca44e5-3410-48ee-825a-97b667362406" />
+### OR: <img width="2531" height="536" alt="image" src="https://github.com/user-attachments/assets/583ba956-62c7-463f-bdb2-0214854813c9" />
+### XOR: <img width="2559" height="792" alt="image" src="https://github.com/user-attachments/assets/1be2b3c8-451d-418d-81ba-35c675444140" />
+### ADDER: <img width="2559" height="1221" alt="image" src="https://github.com/user-attachments/assets/f914f73e-6e91-430c-bb4e-6a6f76470108" />
+### 4-BIT-ADDER: <img width="2553" height="1351" alt="image" src="https://github.com/user-attachments/assets/35a23031-e88a-4c43-8ecc-f7c810d6dad0" />
+### 8-BIT-ADDER: <img width="2271" height="1299" alt="image" src="https://github.com/user-attachments/assets/b66cdc49-56da-4e83-b242-084d72563a25" />
+### 16-BIT-ADDER: <img width="2251" height="1193" alt="image" src="https://github.com/user-attachments/assets/af92d449-3765-4564-b68c-0b1f47c707dc" />
+###
+
+
