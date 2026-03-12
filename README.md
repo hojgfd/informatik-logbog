@@ -202,4 +202,22 @@ Rasmus har fået gjort så lokaleSpecifik nu displayer faktisk data i de 3 grafe
 ### 16-BIT-ADDER: <img width="2251" height="1193" alt="image" src="https://github.com/user-attachments/assets/af92d449-3765-4564-b68c-0b1f47c707dc" />
 ###
 
+# Logbog 16/1/2026
+## Vi har besøgt CAPRA robotics, der har revolutioneret udendørs robotter og set hvordan de har udviklet forskellige robotter.
 
+# Logbog 20/01/2026
+## Vi har startet på et nyt projekt om robotter hvor vi har valgt at arbejde om saltning af veje og at gøre det til en mere automatiseret proces. Vi har
+
+# Logbog 05/02/2026
+## Vi har lånt en Maqueen robot, esp32, samt en temperatur og luftfugtighedssensor, som vi kan bruge til at beregne hvor meget salt der er brug for på et specifikt sted. Idéen er at vi får robotten til at køre rundt på vejene og indsamle temperatur og luftfugtighedsdata ved forskellige steder og sende dataen til en hjemmeside, sådan brugeren kan se hvor meget salt vejene har brug for.
+
+# Logbog 05/03
+## Vi har lavet produktet færdigt, ved at udvikle hjemmesiden, host den vha. PythonAnywhere, samt sætte esp32 og sensoren fast på maqueen robotten sådan vi kan indsamle dataen.
+
+# Logbog 11/03/2026
+## I dag har vi lavet vores rapport i vores robot projekt, videopræsentation og afleveret
+
+# Logbog 12/03/2026
+## Data brokers mini-forløb
+### Vi har set en youtube video om data brokers fra last week tonight : https://www.youtube.com/watch?v=wqn3gR1WTcA
+### Videoen handlede om hvordan ens data bliver indsamlet og hvor let det er at få fat på. De brugte forskellige eksempler til at sætte i perspektiv hvordan det er muligt at identificere en person og hans søgehistorik, hobbyer, interesser osv.
