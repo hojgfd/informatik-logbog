@@ -21,6 +21,10 @@
 
 ### Vi har begyndt på et nyt projekt med kryptografi, hvor vi tager udgangspunkt i Alice og Bob scenariet og demonstrerer udvekslingen af beskeder fra A til B.
 
+# CIA-Modellen
+<img width="750" height="419" alt="image" src="https://github.com/user-attachments/assets/05cc1c54-bf4e-4930-ad32-1bec50507c74" />
+
+
 # Logbog 13/03/2025
 ## Cybermesterskaberne
 ### Lavede opgaverne AES Decryption, The professors last note og Find frontdoor, for at kvalificere mig til DDC Junior. Modtog en email og meldte mig til det.
